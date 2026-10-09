@@ -29,10 +29,10 @@ Requirement Provider: Muhammad Huzaifa, Cortex Digital Systems Pvt Ltd
 ## Team
 | Name | Roll No |
 |------|---------|
-| Raheela Aziz | 47 |
 | Adeel Ahmad Subhani | 02 |
 | Hania Nawab | 17 |
 | Muhammad Rehan | 39 |
+| Raheela Aziz | 47 |
 
 ## What Is in This Repository
 - Milestone 1 - our project proposal
