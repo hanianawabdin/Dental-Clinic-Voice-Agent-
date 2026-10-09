@@ -12,7 +12,7 @@ appointments. It also keeps the status of each appointment, makes
 reminder lists for the staff, and passes emergency calls to the
 receptionist.
 
-This is our project for CSC-225 Software Engineering at Namal
+This is our project for CSC-331 Software Engineering at Namal
 University, Mianwali.
 
 Requirement Provider: Muhammad Huzaifa, Cortex Digital Systems Pvt Ltd
