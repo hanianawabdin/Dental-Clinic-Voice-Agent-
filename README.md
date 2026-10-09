@@ -36,4 +36,4 @@ Requirement Provider: Muhammad Huzaifa, Cortex Digital Systems Pvt Ltd
 
 ## What Is in This Repository
 - Milestone 1 - our project proposal
-- Meeting Minutes - scanned copies of our handwritten meeting notes
+- Meeting Minutes - meeting notes containing client's requirements as well as meeting duration
